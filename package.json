@@ -31,7 +31,6 @@
   "homepage": "https://github.com/mateonunez/gunman#readme",
   "dependencies": {
     "@mateonunez/fastify-lyra": "0.0.1-beta.5",
-    "eslint-plugin-prettier": "^4.2.1",
     "fastify": "^4.2.1"
   },
   "devDependencies": {
@@ -41,6 +40,7 @@
     "dotenv": "^16.0.1",
     "eslint": "^8.20.0",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "nodemon": "^2.0.19",
     "pino": "^8.2.0",
     "prettier": "^2.7.1",
