@@ -1,6 +1,6 @@
 {
   "name": "gunman",
-  "version": "1.0.0",
+  "version": "v0.0.1-beta.0",
   "description": "Fastify and Lyra Pistolero",
   "main": "src/index.ts",
   "scripts": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/mateonunez/gunman#readme",
   "dependencies": {
-    "@mateonunez/fastify-lyra": "0.0.1-beta.3",
+    "@mateonunez/fastify-lyra": "0.0.1-beta.5",
     "eslint-plugin-prettier": "^4.2.1",
     "fastify": "^4.2.1"
   },
