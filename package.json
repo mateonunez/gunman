@@ -1,6 +1,6 @@
 {
   "name": "gunman",
-  "version": "v0.0.1-beta.0",
+  "version": "v0.0.1",
   "description": "Fastify and Lyra Pistolero",
   "main": "src/index.ts",
   "scripts": {
