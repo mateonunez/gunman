@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/mateonunez/gunman#readme",
   "dependencies": {
-    "@mateonunez/fastify-lyra": "0.1.0",
+    "@mateonunez/fastify-lyra": "0.1.3",
     "fastify": "^4.7.0"
   },
   "devDependencies": {
