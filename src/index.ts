@@ -40,12 +40,12 @@ const Gunman = async () => {
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } = request as any;
 
-    const search = await app.lyra.search({
+    const { hits } = await app.lyra.search({
       term: query
     });
 
     response.send({
-      search
+      hits
     });
   });
 
